@@ -1,0 +1,23 @@
+# Ignore everything by default
+/*
+
+!.
+!/js/**
+!/libraries/**
+!/templates/**
+!/locale/**
+!/themes/**
+!/config.inc.php
+!/composer.json
+!/ChangeLog
+!/url.php
+!/index.php
+!/show_config_errors.php
+!/robots.txt
+!/favicon.ico
+!/print.css
+!/LICENSE
+!/app.yaml
+
+# Add custom entrypoint
+!/public.php
